@@ -8,7 +8,7 @@ ARIYA NUR YAZID DWI PUTRA
 <body>
 Saya adalah lulusan S1 Sistem Informasi dari Universitas Sangga Buana YPKP dan saat ini fokus membangun karier sebagai Software Quality Assurance (SQA). Saya telah menyelesaikan studi mandiri dan contoh project pengujian pada website saucedemo.com dengan pendekatan otomatisasi menggunakan Selenium WebDriver dan Mocha, serta menerapkan konsep Page Object Model (POM).
 
-🔧 Beberapa keterampilan teknis yang telah saya pelajari dan kuasai meliputi:
+Beberapa keterampilan teknis yang telah saya pelajari dan kuasai meliputi:
 
 Dasar-dasar Quality Assurance dan proses dalam SDLC
 
@@ -27,7 +27,6 @@ Load & Performance Testing
 Web UI Automation menggunakan Selenium
 
 Saya tertarik pada detail dan selalu berusaha memastikan kualitas perangkat lunak dari berbagai sisi, mulai dari fungsionalitas hingga performa. Saya siap untuk terus belajar dan berkembang dalam dunia QA.
--->
 </body>
 <footer>
 
